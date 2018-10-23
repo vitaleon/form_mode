@@ -1,0 +1,5 @@
+Type: Jupyter Notebook Extension
+Name: FORM mode
+Description: Add FORM mode extension to CodeMirror
+Main: main.js
+Compatibility: Jupyter 4.x, 5.x
